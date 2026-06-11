@@ -1,4 +1,10 @@
 # the mad org
+> we care about communication
+
+### 📬 Bedrud
+- **[bedrud](https://github.com/themadorg/bedrud)** — self-hosted video meeting platform. [[releases](https://github.com/themadorg/bedrud/releases)] | [bedrud.org](https://bedrud.org)
+
+
 
 ### 📬 relay infra
 - **[madmail](https://github.com/themadorg/madmail)** — high-performance feature rich mail delivery for delta chat. [[releases](https://github.com/themadorg/madmail/releases)]
