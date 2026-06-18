@@ -9,7 +9,7 @@
 ### 📬 relay infra
 
 - **[madmail](https://github.com/themadorg/madmail)** — high-performance feature rich mail delivery for delta chat. [[releases](https://github.com/themadorg/madmail/releases)]
-- **[madexchanger](https://github.com/themadorg/madexchanger)** — https relay for routing messages between madmail servers. [[releases](https://github.com/themadorg/madexchanger/releases)]
+- **[madexchanger](https://github.com/themadorg/madexchanger)** `work-in-progress` — https relay for routing messages between madmail servers. [[releases](https://github.com/themadorg/madexchanger/releases)]
 - **[madexchanger-php](https://github.com/themadorg/madexchanger-php)** — php implementation of madexchanger. [[releases](https://github.com/themadorg/madexchanger-php/releases)]
 
 ### 📦 chatmail sdk
